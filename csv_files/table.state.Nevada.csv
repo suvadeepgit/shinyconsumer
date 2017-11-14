@@ -1,0 +1,20 @@
+"NAICS_name" "Fraction_Employment" "Payroll"
+"1" "Agriculture, Forestry, Fishing and Hunting" 0.0264151315335561 0.0240214307347565
+"2" "Mining, Quarrying, and Oil and Gas Extraction" 0.0155730999339622 0.0320659559356896
+"3" "Utilities" 0 0.00225535790174859
+"4" "Construction" 0.404112086893955 0.46119203166353
+"5" "Manufacturing" 0.119459475442798 0.120029898320242
+"6" "Wholesale Trade" 0.192002523236445 0.262812744312268
+"7" "Retail Trade" 0.410814433700977 0.34558562536053
+"8" "Transportation and Warehousing" 0.0843707186295672 0.0931275905308761
+"9" "Information" 0.0617010161940527 0.0991983660542568
+"10" "Finance and Insurance" 0.265038390648255 0.31694881027877
+"11" "Real Estate and Rental and Leasing" 0.333638881496595 0.309106145840314
+"12" "Professional, Scientific, and Technical Services" 0.752338429088185 1.18236078853194
+"13" "Management of Companies and Enterprises" 0 0.0193512200078207
+"14" "Administrative and Support and Waste Management and Remediation Services" 0.316094503089979 0.317277768558362
+"15" "Educational Services" 0.0469164276491519 0.0448778840825288
+"16" "Health Care and Social Assistance" 0.481090511251072 0.991380570363316
+"17" "Arts, Entertainment, and Recreation" 0.0849621021713632 0.249407694418891
+"18" "Accommodation and Food Services" 0.216446376297348 0.214164300555324
+"19" "Other Services (except Public Administration)" 0.4024365001922 0.288511363851308
